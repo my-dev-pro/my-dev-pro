@@ -20,7 +20,7 @@
 -->
 ## Contact Me
 
-| ![WhatsApp](images/whatsapp.png) | ![Telegram](images/telegram.png) |
+| [<img src="images/whatsapp.png">](https://web.whatsapp.com/send?phone=201022366794&text=Hello!) | [<img src="images/telegram.png">](https://t.me/MY_Devpro) |
 |:--------------------------:|:--------------------------:|
 | WhatsApp       | Telegram       |
 
