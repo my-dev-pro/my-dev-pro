@@ -10,9 +10,9 @@
 - 🌍 Reading
 
 ## My Skills
-- Languages: PHP, JavaScript, HTML, CSS
+- Languages: PHP, JavaScript,SQL, HTML, CSS
 - Frameworks: Symfony, Laravel, Laminas, API Framework, Magento, Opencart
-- Tools: Linux, PHPStorm, VSCode, Git, GitHub, 
+- Tools: Linux, PHPStorm, VSCode, Git, GitHub, TWIG
 <!--
 ## Projects
 - [Project 1](https://github.com/your-username/project-1)
