@@ -12,7 +12,7 @@
 
 ## My Skills
 - Languages: PHP, JavaScript, SQL, HTML, CSS
-- Frameworks: Symfony, Laravel, Laminas, API Framework, Magento, Opencart
+- Frameworks: Symfony, Laravel, Laminas, API Framework, Magento, Opencart, Prestashop
 - Tools: Linux, PHPStorm, VSCode, Git, GitHub, TWIG
 <!--
 ## Projects
